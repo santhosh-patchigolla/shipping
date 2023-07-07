@@ -6,5 +6,5 @@ java()
 
 
 
-// calling the Java function java()
+// calling the Java function java()..
 // env.APP_Type=java calling it from the common.grroovy
