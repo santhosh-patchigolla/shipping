@@ -1,6 +1,6 @@
 @Library('roboshop-shared-library') _
 
 env.COMPONENT="shipping"
-env.COMPONENT="nodejs"
+env.COMPONENT="java"
 java()   
 
